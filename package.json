@@ -1,0 +1,7 @@
+{
+  "main": "./index.js",
+  "devDependencies": {
+    "pako": "^1.0.11",
+    "trotar": "0.0.1"
+  }
+}
